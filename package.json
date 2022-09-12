@@ -24,7 +24,7 @@
     "gatsby-plugin-react-helmet": "^4.14.0",
     "gatsby-theme-codebushi": "^1.0.0",
     "preact": "^10.6.4",
-    "preact-render-to-string": "^5.1.19",
+    "preact-render-to-string": "^5.2.4",
     "react": "^17.0.1",
     "react-anchor-link-smooth-scroll": "^1.0.12",
     "react-countup": "^6.1.0",
